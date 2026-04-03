@@ -1,4 +1,4 @@
-package com.ruslan.huseynov.emptycomposeproject.ui.theme
+package com.ruslan.huseynov.emptycomposeproject.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
