@@ -1,6 +1,5 @@
-package com.ruslan.huseynov.emptycomposeproject.ui.theme
+package com.ruslan.huseynov.emptycomposeproject.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
